@@ -1,0 +1,11 @@
+#navbar {
+    position: fixed;
+    top: 0;
+    left: 0;
+    background-color: cyan;
+    width: 25%;
+    height: 100vh;
+    overflow: scroll;
+    
+}
+@media
